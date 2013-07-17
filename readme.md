@@ -12,7 +12,7 @@
 
 ## 必要なもの
 * PHP 5.3.7 以上(5.4以上が望ましい)
-* MCrypt PHP Extensio
+* MCrypt PHP Extension
 
 -----
 
