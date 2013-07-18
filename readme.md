@@ -73,3 +73,5 @@ http://localhost:8000/ をブラウザのURL欄に入力してみてください
 
 Laravelを楽しんでください！
 
+# ライセンス
+[MIT license](http://opensource.org/licenses/MIT)
