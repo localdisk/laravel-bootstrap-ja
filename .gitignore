@@ -1,3 +1,6 @@
-/vendor/
-/composer.lock
-/nbproject/
+/bootstrap/compiled.php
+/vendor
+composer.phar
+composer.lock
+.DS_Store
+/nbproject
