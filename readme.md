@@ -7,7 +7,7 @@
 * [日本語コメント版、日本語言語ファイル付きLaravel](https://github.com/HiroKws/laravel)
 * [IDE用補完コード](https://github.com/barryvdh/laravel-ide-helper)
 * [Laravel-4-Generators](https://github.com/JeffreyWay/Laravel-4-Generators)
-* [Twitter Bootstrap 2.3.2](http://twitter.github.io/bootstrap/)
+* [Twitter Bootstrap 3.0.0](https://github.com/twbs/bootstrap)
 * [jQuery 1.10.2](http://jquery.com)
 
 ## 必要なもの
