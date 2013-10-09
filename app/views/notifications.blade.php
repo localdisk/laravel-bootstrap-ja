@@ -1,11 +1,3 @@
-@if (count($errors->all()) > 0)
-<div class="alert alert-danger">
-	<button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
-	<h4>Error</h4>
-	Please check the form bellow for errors
-</div>
-@endif
-
 @if ($message = Session::get('success'))
 <div class="alert alert-success">
 	<button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>

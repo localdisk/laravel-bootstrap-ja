@@ -114,6 +114,10 @@ return array(
 		'Illuminate\View\ViewServiceProvider',
 		'Illuminate\Workbench\WorkbenchServiceProvider',
         'Way\Generators\GeneratorsServiceProvider',
+        'Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider',
+        'Zizaco\Confide\ConfideServiceProvider',
+        'Intervention\Image\ImageServiceProvider',
+        'Juy\Profiler\Providers\ProfilerServiceProvider',
 
 	),
 
@@ -179,6 +183,9 @@ return array(
 		'URL'             => 'Illuminate\Support\Facades\URL',
 		'Validator'       => 'Illuminate\Support\Facades\Validator',
 		'View'            => 'Illuminate\Support\Facades\View',
+        'Confide'         => 'Zizaco\Confide\ConfideFacade',
+        'Image'           => 'Intervention\Image\Facades\Image',
+        'Profiler'        => 'Juy\Profiler\Facades\Profiler',
 
 	),
 

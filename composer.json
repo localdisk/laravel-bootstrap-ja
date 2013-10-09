@@ -1,8 +1,14 @@
 {
 	"require": {
 		"laravel/framework": "4.0.*",
-        "way/generators": "dev-master"
+        "way/generators": "dev-master",
+        "barryvdh/laravel-ide-helper": "1.*",
+        "zizaco/confide": "1.0.x",
+        "intervention/image": "dev-master"
 	},
+	"require-dev": {
+        "juy/profiler" : "dev-master"
+    },
 	"autoload": {
 		"classmap": [
 			"app/commands",
@@ -21,6 +27,7 @@
 			"php artisan optimize"
 		],
 		"post-update-cmd": [
+            "php artisan ide-helper:generate",
 			"php artisan optimize"
 		]
 	},

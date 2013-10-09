@@ -11,7 +11,7 @@
         </title>
         <meta name="keywords" content="your, awesome, keywords, here" />
         <meta name="author" content="localdisk" />
-        <meta name="description" content="Laravel 4 Bootstrap App Japanese Edition with Twitter Bootstrap and Generators, IDE Helper" />
+        <meta name="description" content="Laravel 4 Bootstrap App Japanese Edition with Twitter Bootstrap and Utility Packages." />
 
         <!-- Mobile Specific Metas
         ================================================== -->
