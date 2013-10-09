@@ -24,6 +24,7 @@
 			"php artisan clear-compiled"
 		],
 		"post-install-cmd": [
+            "php artisan ide-helper:generate",
 			"php artisan optimize"
 		],
 		"post-update-cmd": [
