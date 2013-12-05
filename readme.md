@@ -7,6 +7,8 @@
 * [日本語コメント版、日本語言語ファイル付きLaravel](https://github.com/HiroKws/laravel)
 * [IDE用補完コード](https://github.com/barryvdh/laravel-ide-helper)
 * [Laravel-4-Generators](https://github.com/JeffreyWay/Laravel-4-Generators)
+* [Confide](https://github.com/Zizaco/confide)
+* [Intervention Image Class](https://github.com/Intervention/image)
 * [Twitter Bootstrap 3.0.3](https://github.com/twbs/bootstrap)
 * [jQuery 1.10.2](http://jquery.com)
 
