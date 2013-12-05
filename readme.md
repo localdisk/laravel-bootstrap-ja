@@ -7,7 +7,7 @@
 * [日本語コメント版、日本語言語ファイル付きLaravel](https://github.com/HiroKws/laravel)
 * [IDE用補完コード](https://github.com/barryvdh/laravel-ide-helper)
 * [Laravel-4-Generators](https://github.com/JeffreyWay/Laravel-4-Generators)
-* [Twitter Bootstrap 3.0.0](https://github.com/twbs/bootstrap)
+* [Twitter Bootstrap 3.0.3](https://github.com/twbs/bootstrap)
 * [jQuery 1.10.2](http://jquery.com)
 
 ## 必要なもの
@@ -59,13 +59,6 @@ php composer.phar install
 ### 3 セットアップ
 
 Laravel をダウンロードしてディレクトリに移動して下記コマンドを入力してください
-
-※ php artisan serve コマンドは PHP 5.4 以上でしか使用出来ません（ビルトインサーバーを使用するため）
-
-<pre>
-php artisan key:generate
-php artisan serve
-</pre>
 
 http://localhost:8000/ をブラウザのURL欄に入力してみてください
 
