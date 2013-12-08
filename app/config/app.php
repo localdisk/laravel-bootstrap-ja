@@ -117,7 +117,7 @@ return array(
         'Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider',
         'Zizaco\Confide\ConfideServiceProvider',
         'Intervention\Image\ImageServiceProvider',
-        'Juy\Profiler\Providers\ProfilerServiceProvider',
+        'Barryvdh\Debugbar\ServiceProvider',
 
 	),
 
@@ -185,7 +185,6 @@ return array(
 		'View'            => 'Illuminate\Support\Facades\View',
         'Confide'         => 'Zizaco\Confide\ConfideFacade',
         'Image'           => 'Intervention\Image\Facades\Image',
-        'Profiler'        => 'Juy\Profiler\Facades\Profiler',
 
 	),
 

@@ -7,7 +7,7 @@
         "intervention/image": "dev-master"
 	},
 	"require-dev": {
-        "juy/profiler" : "dev-master"
+        "barryvdh/laravel-debugbar": "dev-master"
     },
 	"autoload": {
 		"classmap": [
@@ -21,7 +21,8 @@
 	},
 	"scripts": {
 		"pre-update-cmd": [
-			"php artisan clear-compiled"
+			"php artisan clear-compiled",
+            "php artisan debugbar:publish"
 		],
 		"post-install-cmd": [
             "php artisan ide-helper:generate",
