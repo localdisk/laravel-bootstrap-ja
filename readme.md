@@ -9,6 +9,7 @@
 * [Laravel-4-Generators](https://github.com/JeffreyWay/Laravel-4-Generators)
 * [Confide](https://github.com/Zizaco/confide)
 * [Intervention Image Class](https://github.com/Intervention/image)
+* [laravel-debugbar](https://github.com/barryvdh/laravel-debugbar)
 * [Twitter Bootstrap 3.0.3](https://github.com/twbs/bootstrap)
 * [jQuery 1.10.2](http://jquery.com)
 
